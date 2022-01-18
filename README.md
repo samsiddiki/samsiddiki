@@ -7,4 +7,4 @@ my basic field of expertise is in HTML, CSS, JavaScript with ES6 and React.
 You can reach me at my email @ sameer.siddiqui2000.ss@gmail.com
 or visit my LinkedIn profile @ https://linkedin.com/in/sameer-asiddiqui
 
-Looking to work with you!!!
+Looking forward to work with you!!!
