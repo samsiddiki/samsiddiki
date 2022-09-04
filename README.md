@@ -1,7 +1,7 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Sameer Ahmed Siddiqui</h1>
+<h1 align="center">Hi, I'm Sameer Ahmed Siddiqui</h1>
 <h3 align="center">Front-end Web Developer | Content Writer</h3>
 
-- ðŸ“« How to reach me **sameer.siddiqui@studentambassadors.com**
+-« How to reach me **sameer.siddiqui@studentambassadors.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
