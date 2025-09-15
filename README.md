@@ -49,5 +49,5 @@ Feel free to connect or reach out on [LinkedIn](https://www.linkedin.com/in/same
 
 ---
 
-> 💬 *"Code with clarity, deploy with confidence, and solve with purpose."*
+> 💬 *"Stay hungry, stay foolish ~ Steve Jobs"*
 
