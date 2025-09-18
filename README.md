@@ -47,7 +47,7 @@ I'm always open to collaboration, technical discussions, and learning opportunit
 
 Feel free to connect or reach out on [LinkedIn](https://www.linkedin.com/in/sameer-asiddiqui) or [Email](mailto:sameer.asiddiqui597@gmail.com) me!
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samsiddiki/samsiddiki/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
