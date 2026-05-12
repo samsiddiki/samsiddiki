@@ -154,8 +154,8 @@ I'm a **Software Developer** who lives at the intersection of *software craftsma
 
 <div align="center">
 
-*"Stay hungry, stay foolish."*  
-— Steve Jobs
+*"A user interface is like a joke. If you have to explain it, it's not that good."*  
+— Martin LeBlanc
 
 <br/>
 
